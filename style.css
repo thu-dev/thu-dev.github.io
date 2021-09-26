@@ -1,0 +1,8 @@
+main {
+  display: flex;
+}
+
+section {
+  border: black 2px solid;
+  background-color: blanchedalmond;
+}
